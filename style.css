@@ -9,16 +9,16 @@ h1 {
 	text-align:center;
      }
 h2 {
-	image:url("Island.jpg")
 	text-align:center;
+	image:url("Island.jpg")
 }
 h3 { 
-	image:url("Sonfitel.jpg")
 	text-align:center;
+	image:url("Sonfitel.jpg")
 }
 h4 {
-	image:url("Ocean.gif")
 	text-align:center;
+	image:url("Ocean.gif")
 }
 table {
 	font-size: 3.9em;
