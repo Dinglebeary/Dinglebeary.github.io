@@ -8,8 +8,9 @@ h1 {
 	font-size: 6.9em;
 	text-align:center;
      }
-<h2>Spectacular Mountain</h2>
-<img src="Island.jpg" alt="Island View" style="width:304px;height:228px;">
+h2 {
+	image:url("Island.jpg")
+}
 
 table {
 	font-size: 4.9em;
