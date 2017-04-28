@@ -10,12 +10,15 @@ h1 {
      }
 h2 {
 	image:url("Island.jpg")
+	text-align:center;
 }
 h3 { 
 	image:url("Sonfitel.jpg")
+	text-align:center;
 }
 h4 {
 	image:url("Ocean.gif")
+	text-align:center;
 }
 table {
 	font-size: 3.9em;
