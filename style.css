@@ -28,6 +28,11 @@ h5 {
 	text-align:center;
 	image:url("Underwater.jpg")
 }
+h6 {
+	font-size: 3.9em;
+	text-align:center;
+	image:url("Boat.jpg")
+}
 table {
 	font-size: 3.9em;
 	margin-left:auto;
