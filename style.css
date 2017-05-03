@@ -9,14 +9,17 @@ h1 {
 	text-align:center;
      }
 h2 {
+	font-size: 3.9em;
 	text-align:center;
 	image:url("Island.jpg")
 }
 h3 { 
+	font-size: 3.9em;
 	text-align:center;
 	image:url("Sonfitel.jpg")
 }
 h4 {
+	font-size: 3.9em;
 	text-align:center;
 	image:url("Ocean.gif")
 }
